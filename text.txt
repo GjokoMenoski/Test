@@ -1,2 +1,4 @@
 bilo sto
 aj da dodadam uste nesto
+
+funkcionalnost za vozila
